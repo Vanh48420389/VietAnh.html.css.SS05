@@ -1,0 +1,50 @@
+.center {
+    text-align: center;
+    border: 3px solid green;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#text-align{
+    background-color: aliceblue;
+    color: red;
+}
+.example{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 5px;
+}
+.code-block {
+    font-family: monospace;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-left: 5px solid rgb(22, 223, 22);
+    margin: 10px 0;
+    border-radius: 4px;
+}
+button{
+    background-color: rgb(80, 189, 80);
+    color: #fffdfd;
+    border-radius: 3px;
+}
+#center2{
+    color: rgb(138, 18, 18);
+}
+#text-align2{
+    color: rgb(246, 0, 0);
+    
+}
+#center3{
+    color: blue;
+}
+#border{
+    color: rgb(246, 0, 0);
+}
+#solid{
+    color: blue;
+}
+.code{
+    line-height: 5px;
+}

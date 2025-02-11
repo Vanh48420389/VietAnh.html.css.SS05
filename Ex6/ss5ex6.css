@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fffff8;
+    color: #222;
+}
+
+ h3 {
+    font-family: sans-serif;
+    color: #005a9c;
+}
+
+.code {
+    font-family: monospace;
+    background-color: #f8f8e0;
+    padding: 10px;
+    display: block;
+    border-left: 5px solid #ffcc00;
+    margin: 10px 0;
+    color: #333;
+    line-height: 30px;
+}
+#code2{
+    line-height: normal;
+}
