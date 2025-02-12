@@ -1,0 +1,48 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.backgroud{
+    background-color: #e4e4e4;
+    margin: 20px;
+    padding: 10px;
+}
+.backgroud .table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.backgroud .table .th{
+    background-color: #027bff;
+    color: white;
+}
+.backgroud .table .white{
+    background-color: #ffffff;
+}
+.view{
+    color: #ffffff;
+    background-color: rgb(12, 210, 12);
+    border-right: 10px;
+    margin-bottom: 10px;
+}
+.update{
+    color: black;
+    background-color: rgb(255, 255, 0);
+
+}
+.delete{
+    color: #ffffff;
+    background-color: red;
+}
+.button {
+    
+    justify-content: space-between;
+}
+
+.button span {
+    padding: 5px 10px;
+    border-radius: 5px;
+    
+    text-align: center;
+    width: 100px; /* Chiều rộng của các "nút" */
+    
+}
